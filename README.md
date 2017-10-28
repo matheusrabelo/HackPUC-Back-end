@@ -9,10 +9,10 @@ Com o NOS (Network of Sale), nosso time venceu em segundo lugar o Hackathon da P
 O projeto foi um aplicativo em Ionic, um dashboard em Angular e Back-end em Kotlin. Foi criado para a maquininha Cielo Lio e celulares Androids. Utilizava QR Code, sensor de impressão digital e reconhecimento facial (através do Amazon Rekognition).
 
 ## Contribuidores
-- Leonardo Menezes (@LTMenezes)
-- Matheus Rabelo (@matheusrabelo)
-- Victor Cruz (@VictorGTdaCruz)
-- Vinícius Campos (@viniciusscampos)
+- Leonardo Menezes [@LTMenezes](https://github.com/LTMenezes)
+- Matheus Rabelo [@matheusrabelo](https://github.com/matheusrabelo)
+- Victor Cruz [@VictorGTdaCruz](https://github.com/VictorGTdaCruz)
+- Vinícius Campos [@viniciusscampos](https://github.com/viniciusscampos)
 
 ## Atenção
 Este é um código produzido em uma Hackathon, então ele não segue as melhores práticas de desenvolvimento. Alguns trechos podem estar modificados.
